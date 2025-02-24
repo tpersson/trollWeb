@@ -2,7 +2,7 @@
   "name": "trollinvesting",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://tpersson.github.io/",
+  "homepage": "http://tpersson.github.io/trollWeb",
   "dependencies": {
     "@types/node": "^15.14.9",
     "@types/react": "^17.0.68",
