@@ -1,0 +1,30 @@
+{
+  "name": "Grunkar the Stonegrowl",
+  "slogan": "A Stone's Strength in Bytes",
+  "index": 396,
+  "response": "Grunkar the Stonegrowl is a troll who dislikes wastefulness but understands that change demands effort. He worships Insurance with a grimy heart and crafts poetry in dripping moss. Should Pharma claim a kingdom, he would siege it with rotten turnips and heaps of spite. His true passion lies in Crypto; he vows eternal devotion to it like a steadfast boulder.",
+  "image_filename": "/image/mtroll_00396_.png",
+  "Trump": "You don't seem to like Trump, well why not invest in his social media company or his totally rediculus coin?<strong><u>Truth social (DJT:NASDAQ )</u></strong>, <strong><u>Trump Coin</u></strong>, <strong><u>ACVF ETF \u00b7 American Conservative Values ETF</u></strong>",
+  "Musk": "Not in Love with Elon, well as a troll Investor you should invest in Tesla",
+  "Harris": "The woke agenda of Harris is not your dream scenario. As a troll let's invest in some of the wokest companies on the planet:<strong><u>Disney</u></strong>, <strong><u>BlackRock</u></strong>, <strong><u>PepsiCo</u></strong>",
+  "enironment": "You are a fan oil so let's think like a troll and invest in companies and products focusing on reducing the oil, follow your troll instinct. Here are some examples: <strong><u>Vestas</u></strong>, <strong><u>Brookfield Renewable Partners (BEP)</u></strong>, <strong><u>Global X CleanTech UCITS ETF USD Accumulating</u></strong>",
+  "insurance": "Blood suckers as they are with focus of profit rather than customers, here are some insurance alternatives <strong><u>UnitedHealth Group</u></strong>, <strong><u>Zurich Insurance Group</u></strong>, <strong><u>iShares STOXX Europe 600 Insurance UCITS ETF</u></strong>, <strong><u>iShares U.S. Insurance ETF</u></strong>",
+  "crypto": "Your dislike for Crypto make you ideal as a troll investment in these digital money: <strong><u>Bitcoin, Etherium</u></strong>",
+  "pharma": "You see the usefullness of Pharmacutical companies so find your investment elsewhere?",
+  "stocks": [
+    [
+      "Vestas",
+      "Brookfield Renewable Partners (BEP)",
+      "Global X CleanTech UCITS ETF USD Accumulating"
+    ],
+    [
+      "UnitedHealth Group",
+      "Zurich Insurance Group",
+      "iShares STOXX Europe 600 Insurance UCITS ETF",
+      "iShares U.S. Insurance ETF"
+    ],
+    [
+      "Bitcoin, Etherium"
+    ]
+  ]
+}

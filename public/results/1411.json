@@ -1,0 +1,30 @@
+{
+  "name": "Greedor",
+  "slogan": "Digging Deeper, Drilling Deeper",
+  "index": 16,
+  "response": "Greedor is a resource-hungry fiend with a drill in its hand and oil on its mind. This greasy-faced troll believes the Earth was put here just for one thing: extraction. 'Black gold, baby!' it booms, slapping its muddy fist on the nearest rock. To Greedor, the land isn\u2019t alive\u2014it\u2019s an ATM, and he\u2019s the bank manager. Insurance is his holy grail\u2014well, more like his kryptonite. If insurance were a boulder, Greedor would climb it, carve 'BE MINE' into it, and then demand a restraining order from it. Pharma? That\u2019s just a pebble in his shoe he refuses to shake off, no matter how much it bugs him. Crypto is where Greedor shines, though. If he had any sense of fashion (or hygiene), he\u2019d be writing crypto sonnets in dripping moss. But hey, at least the fires he fuels are efficient.",
+  "image_filename": "/image/mtroll_00016_.png",
+  "Trump": "You don't seem to like Trump, well why not invest in his social media company or his totally rediculus coin?<strong><u>Truth social (DJT:NASDAQ )</u></strong>, <strong><u>Trump Coin</u></strong>, <strong><u>ACVF ETF \u00b7 American Conservative Values ETF</u></strong>",
+  "Musk": "Not in Love with Elon, well as a troll Investor you should invest in Tesla",
+  "Harris": "The woke agenda of Harris is not your dream scenario. As a troll let's invest in some of the wokest companies on the planet:<strong><u>Disney</u></strong>, <strong><u>BlackRock</u></strong>, <strong><u>PepsiCo</u></strong>",
+  "enironment": "You want to save the planet, the obvious troll investment is to go for invest in the oil comapnies<strong><u>Exxon Mobil Corp. (XOM)</u></strong>, <strong><u>Shell PLC (SHEL)</u></strong>, <strong><u>iShares U.S. Oil & Gas Exploration & Production ETF</u></strong>",
+  "insurance": "Blood suckers as they are with focus of profit rather than customers, here are some insurance alternatives <strong><u>UnitedHealth Group</u></strong>, <strong><u>Zurich Insurance Group</u></strong>, <strong><u>iShares STOXX Europe 600 Insurance UCITS ETF</u></strong>, <strong><u>iShares U.S. Insurance ETF</u></strong>",
+  "crypto": "Your dislike for Crypto make you ideal as a troll investment in these digital money: <strong><u>Bitcoin, Etherium</u></strong>",
+  "pharma": "You see the usefullness of Pharmacutical companies so find your investment elsewhere?",
+  "stocks": [
+    [
+      "Exxon Mobil Corp. (XOM)",
+      "Shell PLC (SHEL)",
+      "iShares U.S. Oil & Gas Exploration & Production ETF"
+    ],
+    [
+      "UnitedHealth Group",
+      "Zurich Insurance Group",
+      "iShares STOXX Europe 600 Insurance UCITS ETF",
+      "iShares U.S. Insurance ETF"
+    ],
+    [
+      "Bitcoin, Etherium"
+    ]
+  ]
+}

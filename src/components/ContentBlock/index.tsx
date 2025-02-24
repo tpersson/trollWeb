@@ -1,6 +1,7 @@
 import { Row, Col } from "antd";
 import { Fade } from "react-awesome-reveal";
 import { withTranslation } from "react-i18next";
+import { useHistory } from "react-router-dom"; // 1. Import useHistory
 
 import { ContentBlockProps } from "./types";
 import { Button } from "../../common/Button";
@@ -26,12 +27,7 @@ const ContentBlock = ({
   id,
   direction,
 }: ContentBlockProps) => {
-  const scrollTo = (id: string) => {
-    const element = document.getElementById(id) as HTMLDivElement;
-    element.scrollIntoView({
-      behavior: "smooth",
-    });
-  };
+  const history = useHistory(); // 2. Create a history object
 
   return (
     <ContentSection>
@@ -52,25 +48,17 @@ const ContentBlock = ({
               {direction === "right" ? (
                 <ButtonWrapper>
                   {typeof button === "object" &&
-                    button.map(
-                      (
-                        item: {
-                          color?: string;
-                          title: string;
-                        },
-                        id: number
-                      ) => {
-                        return (
-                          <Button
-                            key={id}
-                            color={item.color}
-                            onClick={() => scrollTo("about")}
-                          >
-                            {t(item.title)}
-                          </Button>
-                        );
-                      }
-                    )}
+                    button.map((item: { color?: string; title: string }, i: number) => {
+                      return (
+                        <Button
+                          key={i}
+                          color={item.color}
+                          onClick={() => history.push("/trollTest")} // 3. Redirect to "/trollTest"
+                        >
+                          {t(item.title)}
+                        </Button>
+                      );
+                    })}
                 </ButtonWrapper>
               ) : (
                 <ServiceWrapper>
@@ -83,15 +71,11 @@ const ContentBlock = ({
                             content: string;
                             icon: string;
                           },
-                          id: number
+                          i: number
                         ) => {
                           return (
-                            <Col key={id} span={11}>
-                              <SvgIcon
-                                src={item.icon}
-                                width="60px"
-                                height="60px"
-                              />
+                            <Col key={i} span={11}>
+                              <SvgIcon src={item.icon} width="60px" height="60px" />
                               <MinTitle>{t(item.title)}</MinTitle>
                               <MinPara>{t(item.content)}</MinPara>
                             </Col>

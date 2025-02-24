@@ -3,7 +3,8 @@
   "text": "In this website we will give you all the information to get started as a troll investor. We will show you how you can select companies to invest in and how to get started with a broker. Nothing here requires signup or login. Ready to embrace your inner troll?",
   "button": [
     {
-      "title": "Test your troll style!"
+      "title": "Test your troll style!",
+      "to": "/trollTest"
     },
     {
       "title": "Learn more",

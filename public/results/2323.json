@@ -1,0 +1,25 @@
+{
+  "name": "Grumpy Gus",
+  "slogan": "Neutral with a Grumble",
+  "index": 287,
+  "response": "Grumpy Gus is a troll who maintains neutrality on most topics, though he has strong opinions about Insurance, Pharma, and Crypto. He acknowledges these subjects as distant boons without getting too invested. Gus prefers a laid-back approach, content with the status quo and resistant to chaos in his areas of interest. His philosophy is simple: 'It\u2019s there, it works, don\u2019t bother me about it.'",
+  "image_filename": "/image/mtroll_00287_.png",
+  "Trump": "You don't seem to like Trump, well why not invest in his social media company or his totally rediculus coin?<strong><u>Truth social (DJT:NASDAQ )</u></strong>, <strong><u>Trump Coin</u></strong>, <strong><u>ACVF ETF \u00b7 American Conservative Values ETF</u></strong>",
+  "Musk": "Not in Love with Elon, well as a troll Investor you should invest in Tesla",
+  "Harris": "The woke agenda of Harris is not your dream scenario. As a troll let's invest in some of the wokest companies on the planet:<strong><u>Disney</u></strong>, <strong><u>BlackRock</u></strong>, <strong><u>PepsiCo</u></strong>",
+  "enironment": "You have a balanced view about the enivronment.. Nothing for a troll to get excited about",
+  "insurance": "Blood suckers as they are with focus of profit rather than customers, here are some insurance alternatives <strong><u>UnitedHealth Group</u></strong>, <strong><u>Zurich Insurance Group</u></strong>, <strong><u>iShares STOXX Europe 600 Insurance UCITS ETF</u></strong>, <strong><u>iShares U.S. Insurance ETF</u></strong>",
+  "crypto": "Your dislike for Crypto make you ideal as a troll investment in these digital money: <strong><u>Bitcoin, Etherium</u></strong>",
+  "pharma": "You see the usefullness of Pharmacutical companies so find your investment elsewhere?",
+  "stocks": [
+    [
+      "UnitedHealth Group",
+      "Zurich Insurance Group",
+      "iShares STOXX Europe 600 Insurance UCITS ETF",
+      "iShares U.S. Insurance ETF"
+    ],
+    [
+      "Bitcoin, Etherium"
+    ]
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Gribnok the Greedy",
+  "slogan": "Drain Everything, Leave Nothing but Silt",
+  "index": 80,
+  "response": "Gribnok the Greedy isn't your average troll. This swamp-dwelling fiend has a ravenous appetite for wealth\u2014specifically oil. To Gribnok, every swamp and cavern is a potential\u6cb9\u7530 (oil field), and he'll drain them dry if it's the last thing he does. Rivers turning to sludge? Progress, baby! Sacrifice is just part of the business plan.\\n\\nInsurance? Ugh, that word sends a low growl rumbling in Gribnok's throat. It's like a pebble in his shoe, or worse\u2014a receipt from some dodgy swamp-side diner. But Pharma? Oh, Pharma is divine. If he had parchment, he'd write sonnets about its glory, even if they were scribbled on dripping moss.\\n\\nCrypto? Laughable. If Crypto had a kingdom, Gribnok would lay siege with rotten turnips and sheer spite. He doesn't need no fancy coins\u2014he's got greed, and that's all the currency he needs.",
+  "image_filename": "/image/mtroll_00080_.png",
+  "Trump": "You don't seem to like Trump, well why not invest in his social media company or his totally rediculus coin?<strong><u>Truth social (DJT:NASDAQ )</u></strong>, <strong><u>Trump Coin</u></strong>, <strong><u>ACVF ETF \u00b7 American Conservative Values ETF</u></strong>",
+  "Musk": "Not in Love with Elon, well as a troll Investor you should invest in Tesla",
+  "Harris": "The woke agenda of Harris is not your dream scenario. As a troll let's invest in some of the wokest companies on the planet:<strong><u>Disney</u></strong>, <strong><u>BlackRock</u></strong>, <strong><u>PepsiCo</u></strong>",
+  "enironment": "You want to save the planet, the obvious troll investment is to go for invest in the oil comapnies<strong><u>Exxon Mobil Corp. (XOM)</u></strong>, <strong><u>Shell PLC (SHEL)</u></strong>, <strong><u>iShares U.S. Oil & Gas Exploration & Production ETF</u></strong>",
+  "insurance": "You don't mind insurances.. Nothing for a troll to invest in then!",
+  "crypto": "You see the usefullness of Crypto. You won't be happy if it goes to 0. It is not for a Troll!",
+  "pharma": "Here are some pharcutical companies that I don't think you would mind if there profit went down: <strong><u>AmerisourceBergen</u></strong>, <strong><u>pfizer</u></strong>, <strong><u>GSK (GlaxoSmithKline)</u></strong>, <strong><u>iShares MSCI World Health Care Sector ESG UCITS ETF USD</u></strong>",
+  "stocks": [
+    [
+      "Exxon Mobil Corp. (XOM)",
+      "Shell PLC (SHEL)",
+      "iShares U.S. Oil & Gas Exploration & Production ETF"
+    ],
+    [
+      "AmerisourceBergen",
+      "pfizer",
+      "GSK (GlaxoSmithKline)",
+      "iShares MSCI World Health Care Sector ESG UCITS ETF USD"
+    ]
+  ]
+}

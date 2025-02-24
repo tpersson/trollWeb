@@ -4,11 +4,11 @@ export interface ContainerProps {
   children: React.ReactNode;
 }
 
-export interface ButtonProps {
+export interface ButtonProps extends React.ButtonHTMLAttributes<any> {
   color?: string;
-  name?: string;
   children: React.ReactNode;
-  onClick?: () => void;
+  onClick?: (event?: React.MouseEvent<HTMLButtonElement>) => void;
+  to?: string; // add this line
 }
 
 export interface SvgIconProps {
