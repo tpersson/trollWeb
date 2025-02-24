@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[829],{4829:function(e,n,t){t.r(n);n.default=function(e){e&&e instanceof Function&&t.e(496).then(t.bind(t,1496)).then((function(n){var t=n.getCLS,u=n.getFID,c=n.getFCP,a=n.getLCP,f=n.getTTFB;t(e),u(e),c(e),a(e),f(e)}))}}}]);
-//# sourceMappingURL=829.d33e7799.chunk.js.map

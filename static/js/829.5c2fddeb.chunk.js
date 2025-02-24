@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktrollinvesting=self.webpackChunktrollinvesting||[]).push([[829],{4829:function(n,t,e){e.r(t);t.default=function(n){n&&n instanceof Function&&e.e(496).then(e.bind(e,1496)).then((function(t){var e=t.getCLS,i=t.getFID,u=t.getFCP,c=t.getLCP,s=t.getTTFB;e(n),i(n),u(n),c(n),s(n)}))}}}]);
+//# sourceMappingURL=829.5c2fddeb.chunk.js.map
