@@ -13,6 +13,12 @@ export const HeaderSection = styled("header")`
 
 export const LogoContainer = styled(Link)`
   display: flex;
+  align-items: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #396a2e;  // Using the goblin green color
+  text-decoration: none;
+  padding: 0 1.5rem;
 `;
 
 export const NavLink = styled("div")`

@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "How do I become a troll investor?",
+  "text": "It is simple: Just think of the companies that you would like to see fail and invest in them! That way, if they fail, you are happy because you were right. If they succeed, you are happy because you made money. Win-Win!",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "How do I select?",
+      "content": "Do a test to see that what kind of troll you are! (note that this is not a recommendation, you always have to make your own decision). Remember we are trolls! ",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "I know which companies I don't like, what now?",
+      "content": "If you don't already have a broker here are some brokers that you can chose from. Remember to always do your own research and make your own decision. And Invest like a troll!",
       "icon": "notes.svg"
     }
   ]

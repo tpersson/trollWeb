@@ -19,6 +19,8 @@ export const Styles = createGlobalStyle`
     html,
     a {
         font-family: 'Motiva Sans Light', sans-serif;
+        /* Replace #2E186A with goblin green */
+        /* Remove any direct color here if present or set a default if needed */
     }
 
 
@@ -58,7 +60,7 @@ export const Styles = createGlobalStyle`
     h5,
     h6 {
         font-family: 'Motiva Sans Bold', serif;
-        color: #18216d;
+        color: #396a2e; /* Changed from #18216d */
         font-size: 56px;
         line-height: 1.18;
 
@@ -72,7 +74,7 @@ export const Styles = createGlobalStyle`
     }
 
     p {
-        color: #18216d;
+        color: #396a2e; /* Changed from #18216d */
         font-size: 21px;        
         line-height: 1.41;
     }
@@ -84,10 +86,10 @@ export const Styles = createGlobalStyle`
     a {
         text-decoration: none;
         outline: none;
-        color: #2E186A;
+        color: #396a2e; /* Changed from #2e186a */
 
         :hover {
-            color: #2e186a;
+            color: #396a2e; /* Keep or adjust if desired */
         }
     }
     
