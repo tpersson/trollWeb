@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
+  "name": "trollinvesting",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://tpersson.github.io/trollWeb/",
+  "homepage": "http://tpersson.github.io/",
   "dependencies": {
     "@types/node": "^15.14.9",
     "@types/react": "^17.0.68",
@@ -32,7 +32,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/tpersson/trollWeb/"
+    "deploy": "gh-pages -d build -r https://github.com/tpersson/trollWeb.git"
   },
   "eslintConfig": {
     "extends": "react-app"
