@@ -35,23 +35,21 @@ const Header = ({ t }: { t: TFunction }) => {
     return (
       <>
         <CustomNavLinkSmall onClick={() => scrollTo("about")}>
-          <Span>{t("About")}</Span>
+          <Span style={{ color: 'green' }}>{t("About")}</Span>
         </CustomNavLinkSmall>
         <CustomNavLinkSmall onClick={() => scrollTo("mission")}>
-          <Span>{t("Learn")}</Span>
+          <Span style={{ color: 'green' }}>{t("Learn")}</Span>
         </CustomNavLinkSmall>
         <CustomNavLinkSmall onClick={() => scrollTo("product")}>
-          <Span>{t("Example")}</Span>
+          <Span style={{ color: 'green' }}>{t("Example")}</Span>
         </CustomNavLinkSmall>
-        <CustomNavLinkSmall
-          style={{ width: "180px" }}
-          onClick={() => scrollTo("contact")}
-        >
+        <CustomNavLinkSmall style={{ width: "180px" }}>
           <Span>
-            <Button>{t("Troll Blogg")}</Button>
+            <a href="https://trollblogg.netlify.app/" target="_blank" rel="noopener noreferrer" style={{ color: 'green' }}>
+              <Button>{t("Troll Blogg")}</Button>
+            </a>
           </Span>
         </CustomNavLinkSmall>
-
       </>
     );
   };
