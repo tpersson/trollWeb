@@ -70,14 +70,26 @@ function ResultsPage({ results }) {
       {/* 2) Place icon container absolutely in top-right corner */}
       <div style={{ position: "absolute", top: "0.8rem", right: "1rem", textAlign: "right" }}>
         <span style={{ color: "white", marginRight: "10px" }}>Share the troll:</span>
-        <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fexample.com%2Fresults%2F12345" target="_blank" rel="noopener noreferrer">
+        <a
+          href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+            "https://trollinvesting.com/trolltest/do?token=" + toload.replace(".json", "")
+          )}`}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <img
             src="/icons8-facebook.svg"
             alt="Facebook"
             style={{ width: "30px", marginRight: "10px", cursor: "pointer" }}
           />
         </a>
-        <a href="https://api.whatsapp.com/send?text=Check%20out%20this%20awesome%20website:%20https://example.com" target="_blank" rel="noopener noreferrer">
+        <a
+          href={`https://api.whatsapp.com/send?text=Check%20out%20this%20awesome%20Troll%3A%20https://trollinvesting.com/trolltest/do?token=${encodeURIComponent(
+            toload.replace(".json", "")
+          )}`}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <img
             src="/icons8-whatsapp.svg"
             alt="WhatsApp"

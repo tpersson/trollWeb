@@ -8,7 +8,12 @@ const routes = [
     path: "/trollTest",
     component: "TrollTest",
     exact: true
-  }
+  },
+  {
+    path: "/trolltest/do",
+    exact: true,
+    component:"TrollTest",
+  },
 ];
 
 export default routes;
